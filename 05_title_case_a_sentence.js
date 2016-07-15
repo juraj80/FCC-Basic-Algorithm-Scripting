@@ -6,7 +6,7 @@ function titleCase(str) {
     str[i]=str[i].split("");   
     str[i][0]=str[i][0].toUpperCase();
     str[i]=str[i].join("");
-    return str[i];
+
     
   }
   
